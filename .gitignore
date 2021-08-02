@@ -2,3 +2,4 @@ Filesys-Ext2-Dump-*
 .build
 *~
 nytprof*
+.DS_Store
